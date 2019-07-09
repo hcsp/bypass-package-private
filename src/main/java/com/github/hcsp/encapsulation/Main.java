@@ -1,6 +1,4 @@
 package com.github.hcsp.encapsulation;
-
-
 import com.github.hcsp.encapsulation.com.github.blindpirate.extensions.Bridge;
 
 public class Main {

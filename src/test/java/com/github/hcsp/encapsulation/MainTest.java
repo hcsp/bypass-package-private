@@ -3,7 +3,7 @@ package com.github.hcsp.encapsulation;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class BridgeTest {
+public class MainTest {
     @Test
     public void bypassPackagePrivate() {
         Assertions.assertEquals(
