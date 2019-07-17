@@ -1,4 +1,4 @@
-package com.github.hcsp.encapsulation.com.github.blindpirate;
+package com.github.hcsp.encapsulation;
 
 import com.github.blindpirate.extensions.Bridge;
 //import com.github.blindpirate.extensions.CaptureSystemOutputExtension;
