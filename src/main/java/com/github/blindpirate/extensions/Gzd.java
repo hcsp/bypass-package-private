@@ -1,7 +1,7 @@
 package com.github.blindpirate.extensions;
 
-public class Bridge {
-    public static Object bridge(){
+public class Gzd {
+    public static Object gzd(){
         return new CaptureSystemOutputExtension();
     }
 }
