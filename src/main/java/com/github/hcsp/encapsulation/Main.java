@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(createCaptureSystemOutputExtension().getClass().getName());
     }
+
     public static Object createCaptureSystemOutputExtension() {
         // 因为CaptureSystemOutputExtension是包级私有的，因此无法直接创建它
         // https://github.com/blindpirate/junit5-capture-system-output-extension/blob/4ee3aa0a0d9b2610b482e4571ecc33828c60248a/src/main/java/com/github/blindpirate/extensions/CaptureSystemOutputExtension.java#L44
