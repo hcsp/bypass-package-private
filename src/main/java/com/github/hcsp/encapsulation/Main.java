@@ -14,4 +14,3 @@ public class Main {
         return BypassCaptureSystemOutputExtension.newCaptureSystemOutputExtension();
     }
 }
-`
