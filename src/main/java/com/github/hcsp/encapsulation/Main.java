@@ -3,8 +3,8 @@ package com.github.hcsp.encapsulation;
 import com.github.blindpirate.extensions.Bridge;
 
 public class Main {
-    public static Object main(String[] args) {
-     return new Bridge().newCaptureSystemOutputExtension();
+    public static void main(String[] args) {
+        return Bridge.newInstance();
     }
 
 
