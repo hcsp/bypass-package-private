@@ -1,6 +1,5 @@
-package com.github.hcsp.encapsulation;
+package com.github.blindpirate.extensions;
 
-import com.github.blindpirate.extensions.CaptureSystemOutputExtension;
 
 public class Main {
     public static void main(String[] args) {
