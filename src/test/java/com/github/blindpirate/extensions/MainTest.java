@@ -1,4 +1,4 @@
-package com.github.hcsp.encapsulation;
+package com.github.blindpirate.extensions;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
