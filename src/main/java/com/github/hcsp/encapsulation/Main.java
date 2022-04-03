@@ -7,6 +7,7 @@ import com.github.blindpirate.extensions.Bridge;
 
 public class Main {
     public static void main(String[] args) {
+
         System.out.println(createCaptureSystemOutputExtension().getClass().getName());
     }
 
