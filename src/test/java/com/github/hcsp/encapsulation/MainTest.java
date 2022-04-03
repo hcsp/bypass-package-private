@@ -1,7 +1,7 @@
 package com.github.hcsp.encapsulation;
 
-import com.github.blindpirate.extensions.Main;
 import org.junit.jupiter.api.Assertions;
+import com.github.hcsp.encapsulation.Main;
 
 public class MainTest {
     public void bypassPackagePrivate() {
