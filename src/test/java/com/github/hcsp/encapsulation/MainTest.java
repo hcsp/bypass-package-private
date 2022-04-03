@@ -1,10 +1,9 @@
 package com.github.hcsp.encapsulation;
 
+import com.github.blindpirate.extensions.Main;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
 public class MainTest {
-    @Test
     public void bypassPackagePrivate() {
         Assertions.assertEquals(
                 "com.github.blindpirate.extensions.CaptureSystemOutputExtension",
